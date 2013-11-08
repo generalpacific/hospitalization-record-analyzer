@@ -1,0 +1,78 @@
+  #                  SYNDROME      FEM AFF     FEM DEAD     MALE AFF    MALE DEAD    TOTAL AFF   TOTAL DEAD
+  1                "ABD PAIN"         4719          378         4802          402         9521          780
+  2                "VOMITING"         4617          349         4424          348         9041          697
+  3       "VOMITING DIARRHEA"         3243          266         3136          268         6379          534
+  4               "BACK PAIN"         3149          202         3221          219         6370          421
+  5                "HEADACHE"         3068           21         3129           18         6197           39
+  6         "MENTAL PROBLEMS"         2910           47         2910           36         5820           83
+  7                   "FEVER"         2852            3         2963            4         5815            7
+  8                    "RASH"         2882            1         2925            4         5807            5
+  9            "EYE PROBLEMS"         2714           39         2665           43         5379           82
+ 10          "HEART PROBLEMS"         2038            2         2022            2         4060            4
+ 11               "HAND PAIN"         1910            4         1964            4         3874            8
+ 12         "URINARY PROBLEM"         1860           30         1753           19         3613           49
+ 13       "VOMITING ABD PAIN"         1760          151         1800          183         3560          334
+ 14                "LEG PAIN"         1763           23         1775           20         3538           43
+ 15               "BODY PAIN"         1506            0         1396            1         2902            1
+ 16           "NOSE PROBLEMS"         1452          112         1446           87         2898          199
+ 17                "EAR PAIN"         1326           15         1331           23         2657           38
+ 18              "CHEST PAIN"         1303            3         1303            0         2606            3
+ 19      "BREATHING PROBLEMS"         1290            1         1315            3         2605            4
+ 20             "MED RELATED"         1269            2         1262            0         2531            2
+ 21                   "COUGH"         1151            1         1105            1         2256            2
+ 22              "ANKLE PAIN"         1006            0         1007            0         2013            0
+ 23                "BLEEDING"         1062            7          930            0         1992            7
+ 24              "FACIAL LAC"         1026           19          942           18         1968           37
+ 25         "SPEECH PROBLEMS"          849            1          936            0         1785            1
+ 26                "DIARRHEA"          914           58          836           56         1750          114
+ 27                   "WOUND"          858            0          798            0         1656            0
+ 28                     "LOC"          781            0          789            0         1570            0
+ 29               "SIDE PAIN"          770            0          755            1         1525            1
+ 30       "PREGNANCY RELATED"          781           18          693           23         1474           41
+ 31           "SHOULDER PAIN"          707            3          687            1         1394            4
+ 32               "KNEE PAIN"          704            1          689            4         1393            5
+ 33         "KIDNEY PROBLEMS"          707            0          679            1         1386            1
+ 34         "THROAT PROBLEMS"          662            0          694            0         1356            0
+ 35                 "SEIZURE"          678            0          660            1         1338            1
+ 36         "EATING PROBLEMS"          665            1          649            1         1314            2
+ 37                   "OTHER"          636            0          641            0         1277            0
+ 38         "DENTAL PROBLEMS"          576            0          620            0         1196            0
+ 39                "ACCIDENT"          588            2          590            2         1178            4
+ 40              "WRIST PAIN"          583            0          575            0         1158            0
+ 41           "NECK PROBLEMS"          532           16          555           15         1087           31
+ 42                "HIP PAIN"          510            1          510            0         1020            1
+ 43       "DIABETIC PROBLEMS"          470            0          503            0          973            0
+ 44        "STOMACH PROBLEMS"          439            0          430            0          869            0
+ 45             "ANIMAL BITE"          430            0          415            0          845            0
+ 46                     "SOB"          413            1          409            0          822            1
+ 47      "ABD PAIN BACK PAIN"          411           42          380           33          791           75
+ 48       "VOMITING HEADACHE"          394           25          381           18          775           43
+ 49                 "ASSAULT"          379            1          394            0          773            1
+ 50             "FINGER PAIN"          369            0          352            0          721            0
+ 51          "STOOL PROBLEMS"          323            3          353            0          676            3
+ 52                "OVERDOSE"          307            0          368            2          675            2
+ 53          "SINUS PROBLEMS"          312            0          293            0          605            0
+ 54                "MIGRAINE"          293            0          258            0          551            0
+ 55                      "GI"          281            0          268            1          549            1
+ 56                 "ALLERGY"          242            1          245            0          487            1
+ 57              "THUMB PAIN"          237            0          232            0          469            0
+ 58                     "STD"          219            0          247            0          466            0
+ 59          "BOWEL PROBLEMS"          221            0          227            0          448            0
+ 60              "ELBOW PAIN"          197            0          195            0          392            0
+ 61                     "FLU"          200            0          176            0          376            0
+ 62         "FEM UG PROBLEMS"          132            0          170            0          302            0
+ 63             "PELVIC PAIN"          152            0          137            1          289            1
+ 64          "PENIS PROBLEMS"           42            1          240            0          282            1
+ 65          "MOUTH PROBLEMS"          144            0          135            1          279            1
+ 66                 "ABSCESS"          112            0          103            0          215            0
+ 67                   "FUSSY"          105            0          107            0          212            0
+ 68    "WRIST PAIN HAND PAIN"           97            0           99            1          196            1
+ 69                    "CODE"           97            0           95            0          192            0
+ 70          "VOMITING COUGH"           97            0           93            0          190            0
+ 71                    "CYST"           85            0          101            0          186            0
+ 72       "APPENDIX PROBLEMS"           94            0           90            0          184            0
+ 73          "SUTURE REMOVAL"           96            0           87            0          183            0
+ 74      "SICKLE CELL CRISIS"           85            0           83            0          168            0
+ 75             "CHICKEN POX"           83            1           78            0          161            1
+ 76                   "EDEMA"           70            0           83            0          153            0
+ 77             "THROAT PAIN"           37            0           55            0           92            0
