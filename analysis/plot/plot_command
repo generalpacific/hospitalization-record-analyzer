@@ -1,0 +1,79 @@
+set label 1 "RASH" at 1.5,-100
+set label 2 "HEADACHE" at 2.5,0
+set label 3 "SPEECH PROBLEMS" at 3.5,100
+set label 4 "FACIAL LAC" at 4.5,200
+set label 5 "PENIS PROBLEMS" at 5.5,300
+set label 6 "SICKLE CELL CRISIS" at 6.5,400
+set label 7 "VOMITING" at 7.5,500
+set label 8 "SIDE PAIN" at 8.5,600
+set label 9 "DIABETIC PROBLEMS" at 9.5,700
+set label 10 "MED RELATED" at 10.5,800
+set label 11 "THROAT PAIN" at 11.5,900
+set label 12 "SOB" at 12.5,1000
+set label 13 "HAND PAIN" at 13.5,1100
+set label 14 "VOMITING DIARRHEA" at 14.5,1200
+set label 15 "BLEEDING" at 15.5,1300
+set label 16 "MENTAL PROBLEMS" at 16.5,1400
+set label 17 "FEVER" at 17.5,1250
+set label 18 "CODE" at 18.5,1100
+set label 19 "ABD PAIN" at 19.5,950
+set label 20 "HEART PROBLEMS" at 20.5,800
+set label 21 "URINARY PROBLEM" at 21.5,650
+set label 22 "NECK PROBLEMS" at 22.5,500
+set label 23 "ANIMAL BITE" at 23.5,350
+set label 24 "EAR PAIN" at 24.5,200
+set label 25 "SHOULDER PAIN" at 25.5,50
+set label 26 "KIDNEY PROBLEMS" at 26.5,-100
+set label 27 "APPENDIX PROBLEMS" at 27.5,0
+set label 28 "DENTAL PROBLEMS" at 28.5,100
+set label 29 "PELVIC PAIN" at 29.5,200
+set label 30 "BODY PAIN" at 30.5,300
+set label 31 "STD" at 31.5,400
+set label 32 "OTHER" at 32.5,500
+set label 33 "LEG PAIN" at 33.5,600
+set label 34 "EATING PROBLEMS" at 34.5,700
+set label 35 "CHEST PAIN" at 35.5,800
+set label 36 "THROAT PROBLEMS" at 36.5,900
+set label 37 "ABD PAIN BACK PAIN" at 37.5,1000
+set label 38 "MIGRAINE" at 38.5,1100
+set label 39 "NOSE PROBLEMS" at 39.5,1200
+set label 40 "VOMITING HEADACHE" at 40.5,1300
+set label 41 "KNEE PAIN" at 41.5,1400
+set label 42 "LOC" at 42.5,1250
+set label 43 "EYE PROBLEMS" at 43.5,1100
+set label 44 "BACK PAIN" at 44.5,950
+set label 45 "STOOL PROBLEMS" at 45.5,800
+set label 46 "SEIZURE" at 46.5,650
+set label 47 "ANKLE PAIN" at 47.5,500
+set label 48 "FINGER PAIN" at 48.5,350
+set label 49 "STOMACH PROBLEMS" at 49.5,200
+set label 50 "FLU" at 50.5,50
+set label 51 "PREGNANCY RELATED" at 51.5,-100
+set label 52 "WOUND" at 52.5,0
+set label 53 "GI" at 53.5,100
+set label 54 "WRIST PAIN" at 54.5,200
+set label 55 "CHICKEN POX" at 55.5,300
+set label 56 "WRIST PAIN HAND PAIN" at 56.5,400
+set label 57 "OVERDOSE" at 57.5,500
+set label 58 "MOUTH PROBLEMS" at 58.5,600
+set label 59 "HIP PAIN" at 59.5,700
+set label 60 "SINUS PROBLEMS" at 60.5,800
+set label 61 "THUMB PAIN" at 61.5,900
+set label 62 "ACCIDENT" at 62.5,1000
+set label 63 "BREATHING PROBLEMS" at 63.5,1100
+set label 64 "COUGH" at 64.5,1200
+set label 65 "ALLERGY" at 65.5,1300
+set label 66 "DIARRHEA" at 66.5,1400
+set label 67 "VOMITING ABD PAIN" at 67.5,1250
+set label 68 "ASSAULT" at 68.5,1100
+set label 69 "ELBOW PAIN" at 69.5,950
+set label 70 "EDEMA" at 70.5,800
+set label 71 "FUSSY" at 71.5,650
+set label 72 "VOMITING COUGH" at 72.5,500
+set label 73 "BOWEL PROBLEMS" at 73.5,350
+set label 74 "FEM UG PROBLEMS" at 74.5,200
+set label 75 "SUTURE REMOVAL" at 75.5,50
+set label 76 "CYST" at 76.5,-100
+set label 77 "ABSCESS" at 77.5,0
+set label 78 "VAGINAL DISCOMFORT" at 78.5,100
+plot "../Yemen/Yemenwd1_sym_da.csv" using 1:2 with steps

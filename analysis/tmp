@@ -1,0 +1,1 @@
+java -Xmx2600m Classify_week1 ../gui/data/Aleppo/Aleppowdd1.csv ../gui/data/Aleppo/Aleppowdd1_week.csv ../gui/data/Aleppo/Aleppo_sym.csv > ../gui/data/Aleppo/Aleppowdd1_week2.csv
